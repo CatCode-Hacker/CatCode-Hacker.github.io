@@ -1,0 +1,7 @@
+h1 { color : blue; font-family: arial; }
+p1 {font-family: comic;}
+li {font-family: arial; color : black; font-weight: bold; }
+.bigred { color: blue; font-size: 50pt; font-weight: bold;}
+.goright {float:right;}
+h2 { color : red; font-family: arial; font-size: 15pt; }
+body {background-color: lightgreen}
